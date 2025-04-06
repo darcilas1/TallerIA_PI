@@ -1,0 +1,7 @@
+<h1>Recomendador de Películas</h1>
+<form method="post">
+  {% csrf_token %}
+  <label for="prompt">¿Qué tipo de película buscas?</label>
+  <input type="text" name="prompt" id="prompt" required>
+  <button type="submit">Buscar</button>
+</form>
