@@ -1,5 +1,8 @@
+django
+pillow
+pandas
+matplotlib
 openai
-huggingface_hub
-python-dotenv
 numpy
+python-dotenv   
 requests
