@@ -1,5 +1,0 @@
-openai
-huggingface_hub
-python-dotenv
-numpy
-requests
